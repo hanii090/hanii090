@@ -14,7 +14,7 @@
 
 - 📝 I regularly write articles on [https://nothanii.hashnode.dev](https://nothanii.hashnode.dev)
 
-- 💬 Ask me about **nextjs,solidity**
+- 💬 Ask me about **nextjs / solidity**
 
 - ⚡ Fun fact **I listen to books and podcasts at 3x**
 
