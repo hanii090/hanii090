@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **NextJs,Solidity**
 
-- 👨‍💻 All of my projects are available at [https://learn-solidity-blockchain.framer.ai](Solidity Courses)
+- 👨‍💻 All of my projects are available at [https://learn-solidity-blockchain.framer.ai](Solidity)
 
 - 📝 I regularly write articles on [https://nothanii.hashnode.dev](https://nothanii.hashnode.dev)
 
