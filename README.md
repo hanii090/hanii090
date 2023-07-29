@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **IconGenerator**
 
-- 🌱 I’m currently learning **Web3,Metaverse**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👯 I’m looking to collaborate on **NextJs,Solidity**
 
