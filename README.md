@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Rehan</h1>
-<h3 align="center">Web3 Influencer & Educator| I help you & your project overcome challenges and achieve the success you deserve</h3>
+<h3 align="center">I'm a teacher. I speak all over to whoever will listen. I have written the code that you've used. I've been blogging for over a decade and podcasting for about half that. I speak, code, write, empower, promote, braid, learn, and listen - usually not in that order.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hanii090&label=Profile%20views&color=0e75b6&style=flat" alt="hanii090" /> </p>
 
 
-- 🔭 I’m currently working on **CompanionOS** 
+- 🔭 I’m currently working on **CompanionOS**  [CompanionOS](https://companionos.vercel.app/))
 
 - 🌱 I’m currently learning **Machine Learning**
 
 - 👯 I’m looking to collaborate on **NextJs,Solidity**
 
-- 📝 I write articles on [https://nothanii.hashnode.dev](https://nothanii.hashnode.dev)
+- 📝 I write articles on [Hashnode](https://nothanii.hashnode.dev)
 
 - 💬 Ask me about **Typescript / Nextjs / Solidity / Smart Contracts**
 
