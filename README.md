@@ -19,7 +19,6 @@
 ### My Udemy Course 📺
 <!-- Udemy:START -->
 - [Solidity Blockchain development, Zero to Expert](https://www.udemy.com/course/learn-solidity-blockchain-development-zero-to-expert/)
-
 <!-- Udemy:END -->
 <br />
 <h3 align="left">Connect with me:</h3>
