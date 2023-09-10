@@ -16,6 +16,12 @@
 
 - ⚡ Fun fact **I listen to books and podcasts at 3x**
 
+### My Udemy Course 📺
+<!-- Udemy:START -->
+- [Solidity Blockchain development, Zero to Expert](https://www.udemy.com/course/learn-solidity-blockchain-development-zero-to-expert/)
+
+<!-- Udemy:END -->
+<br />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/nothanii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="nothanii" height="30" width="40" /></a>
