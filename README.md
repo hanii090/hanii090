@@ -16,10 +16,6 @@
 
 - ⚡ Fun fact **I listen to books and podcasts at 3x**
 
-### My Udemy Course 📺
-<!-- Udemy:START -->
-- [Solidity Blockchain development, Zero to Expert](https://www.udemy.com/course/learn-solidity-blockchain-development-zero-to-expert/)
-<!-- Udemy:END -->
 <br />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
