@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👯 I’m looking to collaborate on **NextJs,Solidity**
+- 👯 I’m looking to collaborate on **NextJs,React**
 
 - 📝 I write articles on [Hashnode](https://nothanii.hashnode.dev)
 
