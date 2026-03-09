@@ -1,30 +1,45 @@
-<h1 align="center">Hi 👋, I'm Rehan</h1>
-<h4 align="center">I'm a teacher. I speak all over to whoever will listen. I have written the code that you've used. I've been blogging for over a decade and podcasting for about half that. I speak, code, write, empower, promote, braid, learn, and listen - usually not in that order.</h4>
+# Hey, I'm Hanii 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hanii090&label=Profile%20views&color=0e75b6&style=flat" alt="hanii090" /> </p>
+**Solo Developer & Founder** building AI-native products across education, accessibility, and relationship tech.
 
+Based in the UK. Building for the world — with a special focus on Pakistan.
 
-- 🔭 I’m currently working on **BentyCoder**  [BentyCoder](https://benty.org.uk)
+---
 
-- 🌱 I’m currently learning **Machine Learning**
+## What I'm Building
 
-- 👯 I’m looking to collaborate on **NextJs,React**
+**Ustaad AI** — Mobile EdTech app helping Pakistani board exam students learn smarter with AI.  
+`Expo React Native` · `Supabase` · `Claude API`
 
-- 📝 I write articles on [Hashnode](https://nothanii.hashnode.dev)
+**VivaPrep** — AI-powered viva voce exam preparation for UK medical students.  
+`Next.js` · `Supabase + pgvector` · `Claude API`
 
-- 💬 Ask me about **Typescript / Nextjs / Solidity / Smart Contracts**
+**Socra** — Socratic self-reflection app for deeper thinking.  [https://sorca.life/]
+`Next.js` · `Supabase` · `Gemini`
 
-- ⚡ Fun fact **I listen to books and podcasts at 3x**
+**CogniSee** — AI accessibility tool for visually impaired users using multimodal vision.  
+`React` · `Gemini Vision API`
 
-<br />
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/nothanii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="nothanii" height="30" width="40" /></a>
-<a href="https://instagram.com/_https.hanii/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_https.hanii/" height="30" width="40" /></a>
-<a href="https://hashnode.com/@hanii0099" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@hanii0099" height="30" width="40" /></a>
-<a href="https://medium.com/@nothanii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nothanii" height="30" width="40" /></a>
+**Bonded** — A long-distance relationship app born from personal experience.  
+`SwiftUI` · `Supabase` · `Real-time sync`
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/notHanii"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="notHanii" /></a></p><br><br>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hanii090&show_icons=true&locale=en" alt="hanii090" /></p>
+## Tech I Work With
+
+**Mobile** — Expo React Native, SwiftUI  
+**Web** — Next.js, React, Three.js  
+**Backend** — Supabase, Firebase, PostgreSQL  
+**AI** — Claude API, Gemini, Qwen 2.5 (fine-tuning for Urdu + regional languages)
+
+---
+
+## About Me
+
+I build fast, ship often, and care deeply about using AI to solve real problems — whether that's helping a student in Lahore ace their exams, making the web more accessible, or keeping long-distance relationships alive.
+
+Currently exploring a Pakistan-specific fine-tuned AI model with multilingual coverage across Urdu and regional languages.
+
+---
+
+**Let's connect** — [your links here]
