@@ -1,45 +1,58 @@
-# Hey, I'm Hanii 👋
+# Rehan Aslam
 
-**Solo Developer & Founder** building AI-native products across education, accessibility, and relationship tech.
+I build AI products in apps that ship to real people.
 
-Based in the UK. Building for the world — with a special focus on Pakistan.
+Most days I'm shipping privacy-first AI tools and App Store apps for clinicians, marketers, and everyday people. Founder of UmmahSignal and Sorca. Based in Canterbury, UK.
 
----
+**Portfolio: [byrehan.dev](https://byrehan.dev)**
 
-## What I'm Building
+## What I'm building
 
-**Ustaad AI** — Mobile EdTech app helping Pakistani board exam students learn smarter with AI.  
-`Expo React Native` · `Supabase` · `Claude API`
+### 2026
 
-**VivaPrep** — AI-powered viva voce exam preparation for UK medical students.  
-`Next.js` · `Supabase + pgvector` · `Claude API`
+- **[UmmahSignal](https://ummahsignal.com)** — Social listening for brands
+- **[DhikrBuddy](https://dhikrbuddy.com)** — Notch companion for Mac
+- **[Sorca](https://sorca.life)** — AI thinking partner for UK therapists
+- **[Sourced](https://polhia.com)** — Generative engine optimisation
+- **[Zijra](https://zijra.com)** — Coming soon
+- **[Noor AI](https://trynoor.legal)** — Practice OS for UK immigration firms
+- **[App Store](https://apps.apple.com/ng/developer/rehan-aslam/id1880228970)** — Privacy-first iOS apps, including Wird, Noor Daily, Our Family Habits, Halia, HUSH, and ShikayatAI
 
-**Socra** — Socratic self-reflection app for deeper thinking.  [https://sorca.life/]
-`Next.js` · `Supabase` · `Gemini`
+### 2025
 
-**CogniSee** — AI accessibility tool for visually impaired users using multimodal vision.  
-`React` · `Gemini Vision API`
+- **[Clypt](https://getclypt.store)** — Local clipboard history for Mac
+- **[Synthia](https://trysynthia.com)** — App idea validation in 90 seconds
 
-**Bonded** — A long-distance relationship app born from personal experience.  
-`SwiftUI` · `Supabase` · `Real-time sync`
+### 2024
 
----
+- **Ustaad** — Screen-aware voice AI for Mac
 
-## Tech I Work With
+## Stack
 
-**Mobile** — Expo React Native, SwiftUI  
-**Web** — Next.js, React, Three.js  
-**Backend** — Supabase, Firebase, PostgreSQL  
-**AI** — Claude API, Gemini, Qwen 2.5 (fine-tuning for Urdu + regional languages)
+- **Language** — TypeScript, JavaScript
+- **Frontend** — Next.js, React, Tailwind CSS, shadcn/ui
+- **Backend** — Prisma, tRPC, better-auth
+- **Workflow & AI** — Cursor, AI SDK, Claude
 
----
+## Experience
 
-## About Me
+- **Founder**, [Sorca](https://sorca.life) · Aug 2026 — Present  
+  Building Sorca, the AI clinical scribe and thinking partner for UK psychotherapists. Modality-aware notes, NHS Talking Therapies workflows, UK GDPR and EU residency.
 
-I build fast, ship often, and care deeply about using AI to solve real problems — whether that's helping a student in Lahore ace their exams, making the web more accessible, or keeping long-distance relationships alive.
+- **Independent App Developer**, [App Store](https://apps.apple.com/ng/developer/rehan-aslam/id1880228970) · Aug 2026 — Present  
+  Shipping privacy-first iOS apps including Wird, Noor Daily, Our Family Habits, Halia, HUSH, and ShikayatAI.
 
-Currently exploring a Pakistan-specific fine-tuned AI model with multilingual coverage across Urdu and regional languages.
+- **Software Engineering Intern**, Canterbury Christ Church University · Sep 2025 — May 2026  
+  Maintained the International Student Office website and REST APIs with Python, JavaScript, React, and Node.js.
 
----
+- **Software Engineering Research Intern**, AIMS Health Solutions · Jul 2025 — Dec 2025  
+  Built Python tooling to recover missing hops in multi-protocol traceroutes and validated results across large sample sets.
 
-**Let's connect** — [your links here]
+## Links
+
+- [Portfolio](https://byrehan.dev)
+- [GitHub](https://github.com/hanii090)
+- [X](https://x.com/haani0090)
+- [LinkedIn](https://www.linkedin.com/in/nothanii9/)
+- [App Store](https://apps.apple.com/ng/developer/rehan-aslam/id1880228970)
+- [support@ummahsignal.com](mailto:support@ummahsignal.com)
