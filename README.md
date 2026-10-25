@@ -14,7 +14,8 @@ Most days I'm shipping privacy-first AI tools and App Store apps for clinicians,
 - **[DhikrBuddy](https://dhikrbuddy.com)** — Notch companion for Mac
 - **[Sorca](https://sorca.life)** — AI thinking partner for UK therapists
 - **[Sourced](https://polhia.com)** — Generative engine optimisation
-- **[Zijra](https://zijra.com)** — Coming soon
+- **[Zijra](https://zijra.com)** — Privacy-first analytics with Stripe revenue
+- **[Raff](https://meetraff.byrehan.dev)** — Native Mac file manager
 - **[Noor AI](https://trynoor.legal)** — Practice OS for UK immigration firms
 - **[App Store](https://apps.apple.com/ng/developer/rehan-aslam/id1880228970)** — Privacy-first iOS apps, including Wird, Noor Daily, Our Family Habits, Halia, HUSH, and ShikayatAI
 
