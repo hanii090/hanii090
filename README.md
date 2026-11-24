@@ -2,7 +2,7 @@
 
 I build AI products in apps that ship to real people.
 
-Most days I'm shipping privacy-first AI tools and App Store apps for clinicians, marketers, and everyday people. Founder of UmmahSignal and Sorca. Based in Canterbury, UK.
+Most days I'm shipping privacy-first AI tools and App Store apps for clinicians, marketers, and everyday people. Founder of Nabyu and Sorca. Based in Canterbury, UK.
 
 **Portfolio: [byrehan.dev](https://byrehan.dev)**
 
@@ -10,7 +10,7 @@ Most days I'm shipping privacy-first AI tools and App Store apps for clinicians,
 
 ### 2026
 
-- **[UmmahSignal](https://nabyu.com)** — Social listening for brands
+- **[Nabyu](https://nabyu.com)** — Social listening for brands
 - **[DhikrBuddy](https://dhikrbuddy.com)** — Notch companion for Mac
 - **[Sorca](https://sorca.life)** — AI thinking partner for UK therapists
 - **[Sourced](https://polhia.com)** — Generative engine optimisation
