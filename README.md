@@ -10,7 +10,7 @@ Most days I'm shipping privacy-first AI tools and App Store apps for clinicians,
 
 ### 2026
 
-- **[UmmahSignal](https://ummahsignal.com)** — Social listening for brands
+- **[UmmahSignal](https://nabyu.com)** — Social listening for brands
 - **[DhikrBuddy](https://dhikrbuddy.com)** — Notch companion for Mac
 - **[Sorca](https://sorca.life)** — AI thinking partner for UK therapists
 - **[Sourced](https://polhia.com)** — Generative engine optimisation
@@ -56,4 +56,4 @@ Most days I'm shipping privacy-first AI tools and App Store apps for clinicians,
 - [X](https://x.com/haani0090)
 - [LinkedIn](https://www.linkedin.com/in/nothanii9/)
 - [App Store](https://apps.apple.com/ng/developer/rehan-aslam/id1880228970)
-- [support@ummahsignal.com](mailto:support@ummahsignal.com)
+- [support@nabyu.com](mailto:support@nabyu.com)
